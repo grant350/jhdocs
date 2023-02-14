@@ -1,0 +1,3 @@
+# Rando
+
+## What is Rando?
